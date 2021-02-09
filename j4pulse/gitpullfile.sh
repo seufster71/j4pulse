@@ -1,14 +1,14 @@
 
 
 ECHO core
-cd ~/git/j4reef/j4reef/src/main/js/core
+cd ~/git/j4pulse/j4pulse/src/main/js/core
 git pull origin master
 
 ECHO coreView
-cd ~/git/j4reef/j4reef/src/main/js/coreView
+cd ~/git/j4pulse/j4pulse/src/main/js/coreView
 git pull origin master
 
 
 ECHO main
-cd ~/git/j4reef/j4reef
+cd ~/git/j4pulse/j4pulse
 git pull origin master

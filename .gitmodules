@@ -1,0 +1,6 @@
+[submodule "j4pulse/src/main/js/core"]
+	path = j4pulse/src/main/js/core
+	url = https://github.com/seufster71/toasthub-react-core.git
+[submodule "j4pulse/src/main/js/coreView"]
+	path = j4pulse/src/main/js/coreView
+	url = https://github.com/seufster71/toasthub-reactweb-core.git

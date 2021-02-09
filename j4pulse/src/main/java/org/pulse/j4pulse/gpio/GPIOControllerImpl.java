@@ -49,7 +49,7 @@ public class GPIOControllerImpl implements GPIOController {
 	// Config
 	protected Config config;
 	
-	private String configFile = "/opt/j4reef/config.json";
+	private String configFile = "/opt/j4pulse/config.json";
 
 	
 	public GPIOControllerImpl() {

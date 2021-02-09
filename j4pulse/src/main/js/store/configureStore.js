@@ -8,7 +8,7 @@ export default function configureStore() {
   const initialState = {
     appPrefs: { 
     	lang: localStorage.getItem("lang"),
-    	headerName: "j4reef",
+    	headerName: "j4pulse",
     	codeType : 'WEB',
     	debugClient: true,
     	memberMenu: "MEMBER_MENU_TOP",
